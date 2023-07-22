@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_15_M_5</string>
+    <string name="desc_img">imagen de superheroe</string>
+    <string name="name_hero">Nombre Superhero</string>
+    <string name="publisher">Editorial</string>
+    <string name="title">SuperHero List</string>
+</resources>
